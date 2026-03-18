@@ -1,4 +1,4 @@
 import streamlit as st
 
 st.title("Test App")
-st.write("If you see this, your app is working.")
+st.write("If you see this, deployment works.")
